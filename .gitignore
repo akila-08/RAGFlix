@@ -1,0 +1,28 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+myenv/
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Large or temp data
+data/
+checkpoints/
